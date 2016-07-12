@@ -1,0 +1,2 @@
+# varname-go-die
+
