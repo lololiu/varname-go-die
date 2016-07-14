@@ -8,9 +8,9 @@
 2. 遇到变量名英文不会写不需要打开翻译软件查找，直接在编辑器中即可自动生成
 
 ### 效果图
-![快速变量格式转换](![image](https://github.com/lololiu/varname-go-die/raw/master/imgs/screenshot.gif))
+![快速变量格式转换](https://github.com/lololiu/varname-go-die/raw/master/imgs/screenshot.gif)
 
-![变量风格设置](![image](https://github.com/lololiu/varname-go-die/raw/master/imgs/screenshot1.gif))
+![变量风格设置](https://github.com/lololiu/varname-go-die/raw/master/imgs/screenshot1.gif)
 
 ### 安装
 * Android Studio: 打开Settings → Plugins → Browse repositories 查找 varname-go-die进行安装
