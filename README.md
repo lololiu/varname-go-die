@@ -21,6 +21,7 @@
 * 在编辑器中输入单词或中文，Ctrl+W选取，再按Shift+H(默认快捷键，可以在设置中修改)即可弹出选择对话框，也可以选择单词或词组后点击主菜单栏Edit → ChangeVar
 * 可以在Settings → Other Settings → VarNameGoDie 中设置自己想要列表弹出的变量格式
 
-
+### 注意
+* 使用Shift+H做快捷键会拦截掉输入大写H的事件，建议在Settings → Keymap中搜索插件名改成自己顺手的快捷键
 
 
